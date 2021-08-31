@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Welcome: What This Is / Who I Am"
+categories:
+---
+
+Hello, and welcome to sort of personal experiment!  This blog will serve as a record of my continuing education in the areas of software engineering, quality assurance, and cyber security, as well as my thoughts on the learning process.
+
+As much as I’ll be posting to demonstrate the things I’m learning to bolster my CS degree, I’ll also be using this blog as a means of keeping myself on track and exploring my goals in the field.
+
+But first, a bit about myself:
+
+After earning a degree in journalism in my early 20’s, I discovered that my love for the written word far outweighed my love for the journalistic process and the career opportunities in the field.  I promptly spent the next several years working in retail establishments and training my proverbial customer service muscles.  While this period of time doesn’t reflect my career goals, I’m thankful for the soft skills I learned in the retail jungle, and consider the period very formative for my work ethic.
+
+Around the time of my 30th birthday, and feeling unsatisfied with my current position, I decided to pursue a degree in computer science – a field which I had dabbled in for several years and found interesting.  Like so many other self-learners though, I was overcome by analysis paralysis and was unsure in which direction I should concentrate my studies.  Pursuing my CS degree helped me concentrate on the fundamentals my self-teaching lacked and introduced me to several new areas of interest such as cyber security, IoT, and software testing.
+
+Upon graduation, and looking at my career prospects, I felt a gap between my current knowledge, and that of a professional that would thrive in the positions I sought.  In light of this, I’m creating this blog to record my continuing studies as I explore areas of computer science and IT that interest me and will make me more effective in my future roles in the field. 
+
